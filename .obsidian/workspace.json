@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "8bf83b1d74fac6bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,7 +165,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8bf83b1d74fac6bc",
+  "active": "e94092e990e7bcf5",
   "lastOpenFiles": [
     "test.md",
     "未命名 1.canvas",
