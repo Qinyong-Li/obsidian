@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "0325e541c0468acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b199c68a0e3d587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e99e20f9cc3572",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Daily Plan/Space Routing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83c1cd9940c2a6c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d6ff0a9ec1eec49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94092e990e7bcf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb9c07a3d012d108",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59f65a3c03238d0a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9dbe86cce816d0de",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "dde4a2d0a50b21df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3197138cf688b83",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f76b6dc67357ea1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39ebdd8c9ed77f35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Plan/Space Routing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e877537c0c8e4e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Plan/Space Routing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "335b8ac8b763e26b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5cad4ef69cc1e44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Plan/Space Routing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "e8e99e20f9cc3572",
+  "lastOpenFiles": [
+    "Daily Plan/Space Routing.md",
+    "Space Routing/~$survey.xlsx",
+    "Space Routing/survey.xlsx",
+    "Space Routing/211F1000",
+    "test"
+  ]
+}
