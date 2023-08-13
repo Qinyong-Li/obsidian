@@ -11,10 +11,8 @@
             "id": "e8e99e20f9cc3572",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Daily Plan/Space Routing.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
