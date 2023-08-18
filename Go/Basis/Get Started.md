@@ -167,3 +167,4 @@ myArray=append(myArray,3)
 // slice elements
 m=myArray[:2]
 ```
+

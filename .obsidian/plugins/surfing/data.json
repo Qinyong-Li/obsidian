@@ -1,5 +1,5 @@
 {
-  "defaultSearchEngine": "duckduckgo",
+  "defaultSearchEngine": "google",
   "customSearchEngine": [
     {
       "name": "duckduckgo",
@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "0a674031249ee3ea",
+      "parent": 0,
+      "droppable": true,
+      "text": "低成本搭建一台家庭存储服务器：前篇 - 苏洋博客",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

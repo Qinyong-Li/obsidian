@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b199c68a0e3d587",
+        "id": "f7ab68f2025be5c8",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e99e20f9cc3572",
+            "id": "0a674031249ee3ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "surfing-view",
+              "state": {
+                "url": "https://soulteary.com/2023/01/15/building-a-home-storage-server-at-low-cost-part-one.html"
+              }
             }
           }
         ]
@@ -165,8 +167,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e94092e990e7bcf5",
+  "active": "0a674031249ee3ea",
   "lastOpenFiles": [
+    "Go/Basis/Get Started.md",
     "test.md",
     "未命名 1.canvas",
     "未命名.canvas",
