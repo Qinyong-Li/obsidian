@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +168,11 @@
   },
   "active": "763716cc2b58b599",
   "lastOpenFiles": [
+    "Space Routing/F8F78700",
+    "Space Routing/~$survey.xlsx",
     "Space Routing/test.md",
     "Space Routing/Survey @{2023-08-06}.md",
     "Space Routing/9F15EE00",
-    "Space Routing/~$survey.xlsx",
     "Go/Basis/Get Started.md",
     "test.md",
     "未命名 1.canvas",
