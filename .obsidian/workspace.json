@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "63551f271d3b4375",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,11 +172,11 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-weread-plugin:Weread": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "33ed4f566da7cd5e",
+  "active": "63551f271d3b4375",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Space Routing/2C61DC00",
