@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +165,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "763716cc2b58b599",
+  "active": "33ed4f566da7cd5e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Space Routing/2C61DC00",
     "Space Routing/~$survey.xlsx",
     "Space Routing/F8F78700",
