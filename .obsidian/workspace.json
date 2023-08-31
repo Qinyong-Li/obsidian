@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d589c3aedf391bbb",
+        "id": "5b0375cce5b05027",
         "type": "tabs",
         "children": [
           {
-            "id": "33ed4f566da7cd5e",
+            "id": "30f6c931f8e9310d",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "63551f271d3b4375",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,15 +161,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-weread-plugin:Weread": false
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "63551f271d3b4375",
+  "active": "763716cc2b58b599",
   "lastOpenFiles": [
+    "Space Routing/~$survey.xlsx",
     "conflict-files-obsidian-git.md",
     "Space Routing/2C61DC00",
-    "Space Routing/~$survey.xlsx",
     "Space Routing/F8F78700",
     "Space Routing/test.md",
     "Space Routing/Survey @{2023-08-06}.md",
