@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d589c3aedf391bbb",
+        "id": "61e1c44c8ef0baa0",
         "type": "tabs",
         "children": [
           {
-            "id": "33ed4f566da7cd5e",
+            "id": "9580da17b4432dc6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +167,7 @@
   },
   "active": "763716cc2b58b599",
   "lastOpenFiles": [
-    "Space Routing/F8F78700",
     "Space Routing/~$survey.xlsx",
-    "Space Routing/test.md",
-    "Space Routing/Survey @{2023-08-06}.md",
-    "Space Routing/9F15EE00",
-    "Go/Basis/Get Started.md",
     "test.md",
     "未命名 1.canvas",
     "未命名.canvas",
