@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de4352f6fd59201c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,8 +184,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "763716cc2b58b599",
+  "active": "de4352f6fd59201c",
   "lastOpenFiles": [
+    "OS/DONS/DONS宣讲-CCF ChinaNet 温州-高凯辉.pptx",
+    "OS/DONS",
+    "OS/新建文件夹",
+    "OS",
+    "新建文件夹",
     "Space Routing/EED72440",
     "Space Routing/~$survey.xlsx",
     "conflict-files-obsidian-git.md",
@@ -189,9 +205,6 @@
     "test.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "Daily Plan/Space Routing.md",
-    "Space Routing/survey.xlsx",
-    "Space Routing/211F1000",
-    "test"
+    "Daily Plan/Space Routing.md"
   ]
 }
