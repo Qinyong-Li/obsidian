@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "de4352f6fd59201c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +173,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "de4352f6fd59201c",
+  "active": "6aff953890c6cc7d",
   "lastOpenFiles": [
     "OS/DONS/DONS宣讲-CCF ChinaNet 温州-高凯辉.pptx",
     "OS/DONS",
