@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5b0375cce5b05027",
+        "id": "61e1c44c8ef0baa0",
         "type": "tabs",
         "children": [
           {
-            "id": "30f6c931f8e9310d",
+            "id": "9580da17b4432dc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Space Routing/Survey @{2023-08-06}.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Space Routing/Survey @{2023-08-06}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Space Routing/Survey @{2023-08-06}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Space Routing/Survey @{2023-08-06}.md"
+              }
             }
           },
           {
@@ -165,16 +173,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "763716cc2b58b599",
+  "active": "9580da17b4432dc6",
   "lastOpenFiles": [
     "Space Routing/~$survey.xlsx",
-    "conflict-files-obsidian-git.md",
-    "Space Routing/2C61DC00",
-    "Space Routing/F8F78700",
-    "Space Routing/test.md",
-    "Space Routing/Survey @{2023-08-06}.md",
-    "Space Routing/9F15EE00",
-    "Go/Basis/Get Started.md",
     "test.md",
     "未命名 1.canvas",
     "未命名.canvas",
