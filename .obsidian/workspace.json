@@ -35,8 +35,10 @@
             "id": "e23e7d0c7bb96486",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "surfing-view",
+              "state": {
+                "url": "https://zhuanlan.zhihu.com/p/37808566"
+              }
             }
           }
         ],
@@ -192,8 +194,8 @@
   },
   "active": "e23e7d0c7bb96486",
   "lastOpenFiles": [
-    "Space Routing/Survey @{2023-08-06}.md",
     "OS/DONS/Paper Summary.md",
+    "Space Routing/Survey @{2023-08-06}.md",
     "conflict-files-obsidian-git.md",
     "OS/DONS/DONS宣讲-CCF ChinaNet 温州-高凯辉.pptx",
     "OS/DONS",
