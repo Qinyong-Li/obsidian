@@ -43,28 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "e23e7d0c7bb96486",
-      "parent": 0,
-      "droppable": true,
-      "text": "进程间的通信方式（一）：共享内存 - 知乎",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "c6a1baa97f8da544",
-      "parent": 0,
-      "droppable": true,
-      "text": "漫谈Entity Component System (ECS) - 知乎",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
