@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/DONS/Paper Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/DONS/Paper Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OS/DONS/Paper Summary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +171,12 @@
   },
   "active": "763716cc2b58b599",
   "lastOpenFiles": [
-    "OS/ParallelDES/D3632D60",
-    "Gondola/论文架构.md",
+    "OS/DONS/~$FES.pptx",
     "conflict-files-obsidian-git.md",
     "OS/DONS/Paper Summary.md",
+    "OS/DONS/FES.pptx",
+    "OS/ParallelDES/D3632D60",
+    "Gondola/论文架构.md",
     "OS/DONS/DONS宣讲-CCF ChinaNet 温州-高凯辉.pptx",
     "OS/DONS",
     "OS/新建文件夹",
@@ -187,8 +185,6 @@
     "Space Routing/EED72440",
     "Space Routing/~$survey.xlsx",
     "Gondola",
-    "Space Routing/2C61DC00",
-    "Space Routing/F8F78700",
     "Space Routing/test.md",
     "Space Routing/Survey @{2023-08-06}.md",
     "Go/Basis/Get Started.md",
